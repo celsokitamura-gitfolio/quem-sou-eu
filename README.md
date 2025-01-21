@@ -24,8 +24,7 @@ Este projeto foi feito para ajudar a entender a estrutura básica de um document
 - **Git e GitHub:** Para versionamento de código e publicação.
 - **Navegador Web:** Para visualizar e testar sua página.
 
-## 📈 Como Começar
+## Mais Sobre Este Projeto
 
-1. **Clone este Repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/minha-pagina-pessoal.git
+Este é o primeiro projeto do Desafio Gitfolio, um desafio de código criado por Celso Kitamura. Ele ajuda desenvolvedores iniciantes a criar um portfólio online no GitHub.
+Saiba mais sobre este desafio em: [https://link-url-here.org](https://celsokitamura.com.br/GitFolio)
