@@ -27,4 +27,4 @@ Este projeto foi feito para ajudar a entender a estrutura básica de um document
 ## Mais Sobre Este Projeto
 
 Este é o primeiro projeto do Desafio Gitfolio, um desafio de código criado por Celso Kitamura. Ele ajuda desenvolvedores iniciantes a criar um portfólio online no GitHub.
-Saiba mais sobre este desafio em: [https://link-url-here.org](https://celsokitamura.com.br/GitFolio)
+Saiba mais sobre este desafio em: [https://celsokitamura.com.br/GitFolio](https://celsokitamura.com.br/GitFolio)
